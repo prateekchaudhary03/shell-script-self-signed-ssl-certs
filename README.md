@@ -13,6 +13,7 @@ $./ssl.sh www.prateekdalal.com
 /
 /
 **Note**: if you using git bash in window to generate .cert and .key , then you need to add like:\
+
 Currently in script :\
 openssl req -x509 \
             -sha256 -days 356 \
