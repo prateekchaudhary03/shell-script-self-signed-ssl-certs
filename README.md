@@ -6,8 +6,8 @@ Save the following shell script as ssl.sh
 
 Set the script executable permission by executing the following command.
 
-$chmod +x ssl.sh
+\n$chmod +x ssl.sh
 
 Execute the script with the domain name or IP. For example,
 
-$./ssl.sh www.prateekdalal.com
+\n$./ssl.sh www.prateekdalal.com
