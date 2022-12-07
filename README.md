@@ -5,6 +5,9 @@ If you want to create self-signed certificates quite often, you can make use of 
 Save the following shell script as ssl.sh
 
 Set the script executable permission by executing the following command.
+
 $chmod +x ssl.sh
+
 Execute the script with the domain name or IP. For example,
+
 $./ssl.sh www.prateekdalal.com
